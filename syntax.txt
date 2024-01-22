@@ -1,0 +1,54 @@
+if statement:-
+
+if [ condition ];
+then 
+   statement
+fi
+
+
+if-else statement:-
+
+if [ condition ];
+then
+   statement1
+else
+   statement2
+fi
+
+
+if-elif statement:-
+
+if [ condition ];
+then 
+   statement1
+elif [ condition ];
+then 
+   statement2
+else
+  statement3
+fi
+-------------------------------------------
+for loop:
+
+for var in list
+do
+  statement
+done
+
+while loop:-
+
+while [ condition ]
+do 
+   statement
+done
+
+
+until:-
+
+until [ condition ]
+do 
+  statement
+done
+
+
+
